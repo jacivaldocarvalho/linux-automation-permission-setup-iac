@@ -1,4 +1,3 @@
-#cria usuarios
 #!/bin/bash
 
 echo "Criando usuários do sistema"
